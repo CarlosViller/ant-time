@@ -1,0 +1,11 @@
+{
+  "name": "ant-time",
+  "version": "1.0.0",
+  "description": "Track your daily task onto your Google Calendar in an easy way",
+  "manifest_version": 3,
+  "author": "Carlos Villermosa",
+  "action":{
+      "default_popup": "index.html",
+      "default_title": "Ant Time"
+  }
+}
